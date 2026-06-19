@@ -57,6 +57,4 @@ value": "1",
 		"path": "/",
 		"hostOnly": false,
 		"creation": "2026-06-18T08:58:25.179Z",
-		"lastAccessed": "2026-06-18T08:58:25.179Z"
-	}
-]
+		"lastAccessed": "2026-06
