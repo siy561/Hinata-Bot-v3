@@ -52,9 +52,4 @@ value": "1",
 	},
 	{
 		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A3192%3Btimestamp%3A1781773094",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-06-18T08:58:25.179Z",
-		"lastAccessed": "2026-06
+		"value"
